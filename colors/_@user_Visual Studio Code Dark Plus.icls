@@ -3,7 +3,7 @@
     <property name="created">2022-07-10T16:15:12</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-07-10T16:22:26</property>
+    <property name="modified">2022-07-11T13:31:33</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -158,7 +158,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d3d3d3" />
+        <option name="FOREGROUND" value="a71010" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
