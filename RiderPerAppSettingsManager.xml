@@ -1,5 +1,12 @@
 <application>
   <component name="RiderPerAppSettingsManager">
+    <option name="enabledBlacklistToolWindowsId">
+      <set>
+        <option value="IL Viewer" />
+        <option value="Unit Tests" />
+        <option value="Unit Tests Coverage" />
+      </set>
+    </option>
     <option name="toolWindowsPerApp" value="true" />
   </component>
 </application>
